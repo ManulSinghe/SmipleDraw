@@ -1,0 +1,14 @@
+﻿  CourseWork.cpp
+e:\iit\3d graphics programming\coursework\coursework\coursework.cpp(76): warning C4805: '==': unsafe mix of type 'BOOLEAN' and type 'bool' in operation
+e:\iit\3d graphics programming\coursework\coursework\coursework.cpp(78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\iit\3d graphics programming\coursework\coursework\coursework.cpp(179): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\iit\3d graphics programming\coursework\coursework\coursework.cpp(188): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\iit\3d graphics programming\coursework\coursework\coursework.cpp(197): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\iit\3d graphics programming\coursework\coursework\coursework.cpp(1007): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\iit\3d graphics programming\coursework\coursework\coursework.cpp(1008): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\iit\3d graphics programming\coursework\coursework\coursework.cpp(1016): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\iit\3d graphics programming\coursework\coursework\coursework.cpp(1017): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\iit\3d graphics programming\coursework\coursework\coursework.cpp(1021): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\iit\3d graphics programming\coursework\coursework\coursework.cpp(1022): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  CourseWork.vcxproj -> E:\IIT\3D graphics programming\CourseWork\Debug\CourseWork.exe
+  CourseWork.vcxproj -> E:\IIT\3D graphics programming\CourseWork\Debug\CourseWork.pdb (Full PDB)
